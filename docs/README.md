@@ -55,7 +55,7 @@ FUTURE_ML_01/
 ```
 ## 📸 Dashboard Preview  
 ![Dashboard Screenshot 1](https://github.com/rajdeep-r24/FUTURE_ML_01/blob/c0fd6b2c881d5449b639acfaa601cdd75c3bb5f7/dashboard/SS1.png)
-![Dashboard Screenshot 2]((https://github.com/rajdeep-r24/FUTURE_ML_01/blob/c0fd6b2c881d5449b639acfaa601cdd75c3bb5f7/dashboard/SS2.png)
+![Dashboard Screenshot 2](https://github.com/rajdeep-r24/FUTURE_ML_01/blob/c0fd6b2c881d5449b639acfaa601cdd75c3bb5f7/dashboard/SS2.png)
 ![Dashboard Screenshot 3](https://github.com/rajdeep-r24/FUTURE_ML_01/blob/c0fd6b2c881d5449b639acfaa601cdd75c3bb5f7/dashboard/SS3.png)
 ---
 
